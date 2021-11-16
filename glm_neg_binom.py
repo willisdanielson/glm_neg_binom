@@ -22,7 +22,7 @@ import statsmodels.formula.api as smf
 #LOADING DATA#
 ##############
 #changes to project directory
-os.chdir(r'D:\CODE\Python\Customer_Segmentation')
+os.chdir(r'D:\BEST\FOLDER\EVER')
 #loads data from csv.
 df = pd.read_csv('marketing_campaign_data.csv')
 #creates copy of original dataset
